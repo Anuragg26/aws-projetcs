@@ -22,5 +22,5 @@ AWS EC2 Instance
 Nginx Web Server
  ↓
 Static Website (HTML)
-![EC2 Instance](https://raw.githubusercontent.com/Anuragg26/aws-projetcs/main/screenshots/ec2-instance.png)
-🌐 [View Live Demo](https://my-portfoliobucket-2026.s3.eu-north-1.amazonaws.com/index+(1).html)
+![Image](ec2-instance.png)
+[View Live Demo](https://my-portfoliobucket-2026.s3.eu-north-1.amazonaws.com/index+(1).html)
